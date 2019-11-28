@@ -6,9 +6,11 @@ import About from "../components/About"
 import Portfolio from "../components/Portfolio"
 import CallToAction from "../components/CallToAction"
 import Footer from "../components/Footer"
+import SEO from "../SEO"
 
 export default () => (
   <>
+    <SEO title="Shahriyar Ahmed - Front End Developer"></SEO>
     <Banner />
     <About />
     <Portfolio />
