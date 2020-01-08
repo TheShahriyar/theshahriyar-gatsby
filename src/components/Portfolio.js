@@ -20,7 +20,7 @@ const Portfolio = () => {
     <section
       id="portfolio"
       className="pad-t100 pad-b70"
-      style={{ backgroundColor: "#f9f9f9" }}
+      style={{ backgroundColor: "#f5f5f5" }}
     >
       <div className="container">
         <div className="row">
@@ -292,7 +292,7 @@ const Portfolio = () => {
               >
                 <img src={GridsImg} alt="" />
                 <div className="project-details">
-                  <p>Grids - Multipurpose HTML5 Bootstrap Template</p>
+                  <p>Grids - Multipurpose Bootstrap Template</p>
                   <ul>
                     <li>HTML5</li>
                     <li>CSS3</li>
@@ -334,13 +334,13 @@ const Portfolio = () => {
               >
                 <img src={MadisonImg} alt="" />
                 <div className="project-details">
-                  <p>Madison - Charity Joomla Template with Helix3 Framework</p>
+                  <p>Madison - Charity Joomla Template</p>
                   <ul>
                     <li>HTML5</li>
                     <li>CSS3</li>
                     <li>LESS</li>
                     <li>Joomla</li>
-                    <li>jQuery</li>
+                    <li>Helix3</li>
                   </ul>
                 </div>
               </a>
