@@ -13,7 +13,7 @@ import { graphql, useStaticQuery } from "gatsby"
 
 export const getImage = graphql`
   {
-    aboutImage: file {
+    aboutImage: file(relativePath: { eq: "me.jpg" }) {
       childImageSharp {
         fluid {
           ...GatsbyImageSharpFluid_tracedSVG
