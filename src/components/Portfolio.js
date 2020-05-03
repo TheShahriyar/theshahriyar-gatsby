@@ -32,7 +32,7 @@ const Portfolio = () => {
           <div className="col-md-4">
             <div className="product-showcase">
               <a
-                href="http://www.theshahriyar.com/html/wave/wave-preview.html"
+                href="http://www.portfolio.theshahriyar.com/html/wave/wave-preview.html"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -53,7 +53,7 @@ const Portfolio = () => {
           <div className="col-md-4">
             <div className="product-showcase">
               <a
-                href="http://www.theshahriyar.com/html/max/"
+                href="http://www.portfolio.theshahriyar.com/html/max/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -74,7 +74,7 @@ const Portfolio = () => {
           <div className="col-md-4">
             <div className="product-showcase">
               <a
-                href="http://www.theshahriyar.com/html/revson/"
+                href="http://www.portfolio.theshahriyar.com/html/revson/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -95,7 +95,7 @@ const Portfolio = () => {
           <div className="col-md-4">
             <div className="product-showcase">
               <a
-                href="http://www.theshahriyar.com/html/dream/"
+                href="http://www.portfolio.theshahriyar.com/html/dream/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -116,7 +116,7 @@ const Portfolio = () => {
           <div className="col-md-4">
             <div className="product-showcase">
               <a
-                href="http://www.theshahriyar.com/html/othelo/"
+                href="http://www.portfolio.theshahriyar.com/html/othelo/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -137,7 +137,7 @@ const Portfolio = () => {
           <div className="col-md-4">
             <div className="product-showcase">
               <a
-                href="http://www.theshahriyar.com/html/palace/"
+                href="http://www.portfolio.theshahriyar.com/html/palace/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -202,7 +202,7 @@ const Portfolio = () => {
           <div className="col-md-4">
             <div className="product-showcase">
               <a
-                href="http://www.theshahriyar.com/html/bonding/"
+                href="http://www.portfolio.theshahriyar.com/html/bonding/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -223,7 +223,7 @@ const Portfolio = () => {
           <div className="col-md-4">
             <div className="product-showcase">
               <a
-                href="http://www.theshahriyar.com/html/speedy/"
+                href="http://www.portfolio.theshahriyar.com/html/speedy/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -265,7 +265,7 @@ const Portfolio = () => {
           <div className="col-md-4">
             <div className="product-showcase">
               <a
-                href="http://www.theshahriyar.com/html/mariam/"
+                href="http://www.portfolio.theshahriyar.com/html/mariam/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -286,7 +286,7 @@ const Portfolio = () => {
           <div className="col-md-4">
             <div className="product-showcase">
               <a
-                href="http://www.theshahriyar.com/html/grids/"
+                href="http://www.portfolio.theshahriyar.com/html/grids/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -307,7 +307,7 @@ const Portfolio = () => {
           <div className="col-md-4">
             <div className="product-showcase">
               <a
-                href="http://www.theshahriyar.com/html/tender/"
+                href="http://www.portfolio.theshahriyar.com/html/tender/"
                 target="_blank"
                 rel="noopener noreferrer"
               >

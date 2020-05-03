@@ -87,7 +87,7 @@ const About = () => {
           <div className="col-md-8">
             <div className="about-text">
               <p>
-                I'm a Frontend Web Developer with 4+ years of experience. I'm
+                I'm a Frontend Web Developer with 4+ years of experience. I'm an
                 expert in HTML, CSS3, jQuery, Javascript, Bootstrap Framework,
                 React, Gatsby, Angular, Photoshop and many more. Generally, I{" "}
                 <mark>develop UI</mark> of an application and website and also{" "}
